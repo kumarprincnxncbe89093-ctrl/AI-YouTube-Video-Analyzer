@@ -1,0 +1,11 @@
+streamlit
+agno
+python-dotenv
+google-generativeai
+groq
+youtube-transcript-api
+google-api-python-client
+requests
+pandas
+numpy
+pydantic
